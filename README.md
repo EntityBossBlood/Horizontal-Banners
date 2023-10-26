@@ -1,8 +1,8 @@
-Banner Flags 🏳️
+#### Banner Flags 🏳️
 
 Ever since banners were added I've wanted to place them horizontally like flags. Now I have made it possible using this data pack!
 
-🚩FEATURES:
+### 🚩FEATURES:
 
 Place flag in 4 directions
 
@@ -16,7 +16,7 @@ Works on multiplayer & survival friendly!
 
 Make bigger flags
 
-⛳SUPPORTED BLOCKS:
+### ⛳SUPPORTED BLOCKS:
 
 fences
 
