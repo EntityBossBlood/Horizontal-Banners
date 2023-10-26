@@ -1,6 +1,6 @@
 ![image](https://github.com/EntityBossBlood/Horizontal-Banners/assets/148834782/1a59993c-c114-4a03-9a8c-1bf2a8f92d30)
 
-#### Banner Flags 🏳️
+### Banner Flags 🏳️
 
 Ever since banners were added I've wanted to place them horizontally like flags. Now I have made it possible using this data pack!
 
