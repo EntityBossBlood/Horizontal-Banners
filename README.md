@@ -1,3 +1,5 @@
+![image](https://github.com/EntityBossBlood/Horizontal-Banners/assets/148834782/1a59993c-c114-4a03-9a8c-1bf2a8f92d30)
+
 #### Banner Flags 🏳️
 
 Ever since banners were added I've wanted to place them horizontally like flags. Now I have made it possible using this data pack!
@@ -31,14 +33,18 @@ lightning rod
 chain
 
 ### 🤔HOW TO USE:
+
 Crouch + click a banner on one of the supported blocks to place your banner as a flag! Break the block it is placed on to remove it.
 
 Crouch near or on top of the flag pole while holding a diamond to make your flag bigger! You get your diamond back when breaking the flag.
 
-❌UNINSTALLATION:
+### ❌UNINSTALLATION:
+
 If you don't end up liking the pack here are the ways you can remove the flags:
 
 manually breaking each block that a flag has been placed on so you get the banners back. or
 writing /function bannerflags:removeall (you wont get your banners back though)
 ❕SUMMARY:
 This datapack greatly expands the ways you can use banners in Minecraft, such as for decoration, storytelling & direction pointers.
+
+![image](https://github.com/EntityBossBlood/Horizontal-Banners/assets/148834782/3fd87cc6-074f-4934-b7e9-b71ff6b3d1ed)
