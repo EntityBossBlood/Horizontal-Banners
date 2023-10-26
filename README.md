@@ -1,21 +1,36 @@
 Banner Flags 🏳️
+
 Ever since banners were added I've wanted to place them horizontally like flags. Now I have made it possible using this data pack!
 
 🚩FEATURES:
+
 Place flag in 4 directions
+
 Displays the banner you actually placed
+
 Break the block it is placed on to remove it and get your banner back
+
 Place multiple on the same block!
+
 Works on multiplayer & survival friendly!
+
 Make bigger flags
+
 ⛳SUPPORTED BLOCKS:
+
 fences
+
 walls
+
 glass panes
+
 iron bars
+
 lightning rod
+
 chain
-🤔HOW TO USE:
+
+### 🤔HOW TO USE:
 Crouch + click a banner on one of the supported blocks to place your banner as a flag! Break the block it is placed on to remove it.
 
 Crouch near or on top of the flag pole while holding a diamond to make your flag bigger! You get your diamond back when breaking the flag.
